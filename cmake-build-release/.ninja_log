@@ -1,0 +1,22 @@
+# ninja log v5
+363	397	1742659595772812064	game	e8ce0a5dd8b35552
+0	361	1742659595734891828	CMakeFiles/game.dir/main.cpp.o	30bbe541581b5fe6
+0	73	1742968847456315584	build.ninja	fc6096e4854ee1cf
+0	438	1742968847897923977	CMakeFiles/BoxCatcherGame.dir/ZigzagEnemy.cpp.o	514c7ffa863085ff
+0	441	1742968847898252229	CMakeFiles/BoxCatcherGame.dir/Player.cpp.o	19d30724bbc9bbfd
+0	442	1742968847897720601	CMakeFiles/BoxCatcherGame.dir/StraightEnemy.cpp.o	361ba9677926468
+0	469	1742968847929606051	CMakeFiles/BoxCatcherGame.dir/SpiralEnemy.cpp.o	a2030d27f0a6217a
+441	478	1742968847941986878	CMakeFiles/BoxCatcherGame.dir/ScoreSystem.cpp.o	e90f4e7b3200b983
+470	642	1742968848103003554	CMakeFiles/BoxCatcherGame.dir/Renderer.cpp.o	31c21f675c655257
+0	662	1742968848122349926	CMakeFiles/BoxCatcherGame.dir/main.cpp.o	9720e012a39507b2
+0	720	1742968848180172871	CMakeFiles/BoxCatcherGame.dir/Game.cpp.o	de71e4397571ed85
+5	298	1742968880435210592	CMakeFiles/BoxCatcherGame.dir/CollisionSystem.cpp.o	d1a882bcd7fa32f
+6	502	1742968909789443047	CMakeFiles/BoxCatcherGame.dir/LevelGenerator.cpp.o	c0e3e9f27b49b491
+4	397	1742968996201240773	CMakeFiles/BoxCatcherGame.dir/StraightEnemy.cpp.o	361ba9677926468
+4	398	1742968996200139183	CMakeFiles/BoxCatcherGame.dir/CollisionSystem.cpp.o	d1a882bcd7fa32f
+4	399	1742968996201438024	CMakeFiles/BoxCatcherGame.dir/ZigzagEnemy.cpp.o	514c7ffa863085ff
+4	420	1742968996225194839	CMakeFiles/BoxCatcherGame.dir/SpiralEnemy.cpp.o	a2030d27f0a6217a
+2	569	1742968996372217678	CMakeFiles/BoxCatcherGame.dir/main.cpp.o	9720e012a39507b2
+3	627	1742968996429868123	CMakeFiles/BoxCatcherGame.dir/Game.cpp.o	de71e4397571ed85
+397	755	1742968996559291100	CMakeFiles/BoxCatcherGame.dir/LevelGenerator.cpp.o	c0e3e9f27b49b491
+755	878	1742968996683267586	BoxCatcherGame	71895238ed8d2800
